@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OndrejKulhavy/MaturitaJecna/blob/master/metadata/excelidraw/jecna_logo_dark.png">
-    <img alt="SPSE Jecna Logotyp" src="https://github.com/OndrejKulhavy/MaturitaJecna/blob/master/metadata/excelidraw/jecna_logo.png" width="400" style="margin: 20px;">
+    <source media="(prefers-color-scheme: dark)" srcset="metadata/excelidraw/jecna_logo_dark.png">
+    <img alt="SPSE Jecna Logotyp" src="metadata/excelidraw/jecna_logo.png" width="400" style="margin: 20px;">
   </picture>
 </div>
 
@@ -15,7 +15,7 @@ Vítejte v repozitáři Maturitních otázek pro [SPŠE Ječná](https://www.sps
 
 ## Obsah 📖
 - [🧐 Co tu najdeš?](#-co-tu-najdeš)
-- [📚 Ročníky](#-ročníky)
+- [📚 Ročníky](#-ročníky)ф
 - [🚀 Jak můžeš přispět?](#-jak-můžeš-přispět)
 - [📂 Struktura Repozitáře](#-struktura-repozitáře)
 - [📜 Licence](#-licence)
