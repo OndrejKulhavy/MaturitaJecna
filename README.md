@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="https://www.spsejecna.cz/ci/SPSE-Jecna_Logotyp.png" alt="SPSE Jecna Logotyp" width="400" style="margin: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OndrejKulhavy/MaturitaJecna/blob/master/metadata/excelidraw/jecna_logo_dark.png">
+    <img alt="SPSE Jecna Logotyp" src="https://github.com/OndrejKulhavy/MaturitaJecna/blob/master/metadata/excelidraw/jecna_logo.png" width="400" style="margin: 20px;">
+  </picture>
 </div>
+
+
 
 # Maturitní Otázky pro SPŠE Ječná 🎓
 
