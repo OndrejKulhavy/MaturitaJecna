@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://www.spsejecna.cz/ci/SPSE-Jecna_Logotyp.png" alt="SPSE Jecna Logotyp" width="400" style="margin: 20px;">
+</div>
+
 # Maturitní Otázky pro SPŠE Ječná 🎓
 
 **Nazdar, nazdar! 🌟**
