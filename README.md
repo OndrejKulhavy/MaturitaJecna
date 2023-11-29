@@ -9,8 +9,8 @@
 Vítejte v repozitáři Maturitních otázek pro [SPŠE Ječná](https://www.spsejecna.cz/).
 
 ## Obsah 📖
-- [📚 Ročníky](#-ročníky)
 - [🧐 Co tu najdeš?](#-co-tu-najdeš)
+- [📚 Ročníky](#-ročníky)
 - [🚀 Jak můžeš přispět?](#-jak-můžeš-přispět)
 - [📂 Struktura Repozitáře](#-struktura-repozitáře)
 - [📜 Licence](#-licence)
@@ -19,13 +19,14 @@ Vítejte v repozitáři Maturitních otázek pro [SPŠE Ječná](https://www.sps
 
 ---
 
-## 📚 Ročníky 
-Rozcestník: [2024](2024/index.md) - [2023](2023/) - [2020](2020/)
-
 ## 🧐 Co tu najdeš?
 **Vypracované otázky ✍️ ,PDF materiály 📄 , Audio nahrávky 🎤 , Videozpracování 🎥 , Flashcards 🃏**
 
 ... Další užitečné zdroje 🛠️
+
+## 📚 Ročníky 
+Rozcestník: [2024](2024/index.md) - [2023](2023/) - [2020](2020/)
+
 
 ## 🚀 Jak můžeš přispět?
 
