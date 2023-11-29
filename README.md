@@ -22,8 +22,6 @@ Vítejte v repozitáři Maturitních otázek pro [SPŠE Ječná](https://www.sps
 ## 📚 Ročníky 
 Rozcestník: [2024](2024/index.md) - [2023](2023/) - [2020](2020/)
 
-Složky: [2024](2024/) - [2023](2023/) - [2020](2020/)
-
 ## 🧐 Co tu najdeš?
 **Vypracované otázky ✍️ ,PDF materiály 📄 , Audio nahrávky 🎤 , Videozpracování 🎥 , Flashcards 🃏**
 
