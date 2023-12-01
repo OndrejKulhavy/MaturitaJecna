@@ -15,7 +15,7 @@ Vítejte v repozitáři Maturitních otázek pro [SPŠE Ječná](https://www.sps
 
 ## Obsah 📖
 - [🧐 Co tu najdeš?](#-co-tu-najdeš)
-- [📚 Ročníky](#-ročníky)ф
+- [📚 Ročníky](#-ročníky)
 - [🚀 Jak můžeš přispět?](#-jak-můžeš-přispět)
 - [📂 Struktura Repozitáře](#-struktura-repozitáře)
 - [📜 Licence](#-licence)
