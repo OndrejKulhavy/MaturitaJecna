@@ -1,0 +1,10 @@
+Jaký je účel prototypování v rámci životního cyklu vývoje softwaru? ; Umožňuje budoucím uživatelům softwaru hodnotit návrh designu a funkcí prostřednictvím skutečného použití.
+Jaké jsou fáze Rational Unified Process (RUP) a jaký je průběh každé z nich? ; Zahájení, Rozpracování, Konstrukce, Předání. Každá iterace začíná až po dokončení předchozí a pokračuje, dokud není zákazník spokojen s výsledkem.
+Jaké jsou role v metodice Scrum a jaké jsou jejich odpovědnosti? ; Product Owner (komunikace se zákazníkem a plánování), Scrum Master (lídr týmu, organizace procesů), Scrum Team Member (vývoj softwaru).
+Jaký je hlavní princip Extrémního programování (XP) vývoje softwaru? ; Všechno je v extrémech, s důrazem na rychlé iterace a párové programování.
+Jaké jsou výhody a nevýhody metodiky Waterfall vývoje softwaru? ; Výhody: Jednoduchý model, vhodný pro malé projekty. Nevýhody: Není flexibilní, nevhodný pro velké projekty, těžko odhadnutelné náklady a časová náročnost.
+Jaké jsou klíčové fáze v rámci životního cyklu vývoje softwaru? ; Analýza a plánování, Návrh, Implementace, Testování, Nasazení, Údržba.
+Co je SDLC (Software Development Life Cycle) a k čemu slouží? ; SDLC je soubor procesů nebo fází, které softwarový produkt prochází od návrhu po údržbu, slouží k plánování, návrhu, vytváření, testování a údržbě softwarových systémů.
+Jaká je hlavní výhoda Agilního přístupu k vývoji softwaru? ; Rychlé dodání, průběžná zpětná vazba, flexibilita, efektivní spolupráce.
+Jaká je hlavní nevýhoda Spirálního modelu vývoje softwaru? ; Časová náročnost a nákladnost implementace kvůli opakovaným iteracím a důrazu na analýzu a plánování.
+Co je hlavním cílem Testování v rámci životního cyklu vývoje softwaru? ; Ověření správnosti fungování produktu a detekce chyb s následným zaznamenáním pro opravu.
