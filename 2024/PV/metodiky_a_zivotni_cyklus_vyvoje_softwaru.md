@@ -15,9 +15,20 @@
 > SDLC slouží jako rámec pro plánování, návrh a údržbu softwarových systémů, s každou fází zaměřenou na specifické cíle. Porovnání metodik ukazuje, že Agilní přístup a Scrum nabízejí rychlou zpětnou vazbu a flexibilitu, ale vyžadují úzkou spolupráci se zákazníkem. Spirální model kombinuje designový a prototypový přístup, zatímco RUP nabízí iterativní a inkrementální přístup vhodný pro velké projekty.
 > 
 > Text rovněž prezentuje výhody a nevýhody jednotlivých metodik, například jednoduchost Waterfallu a jeho nepružnost vůči změnám, flexibilitu Spirálního modelu na úkor nákladů a časové náročnosti, a agilní přístup s jeho rychlým dodáním, ale náročným plánováním. RUP zdůrazňuje důkladnou dokumentaci a schopnost odhalit chyby, ale může být nákladný a nevhodný pro malé projekty.
+# Obsah
 
---- 
+1. [Metodiky a životní cyklus vývoje softwaru](#metodiky-a-životní-cyklus-vývoje-softwaru)
+   - [Často používané fáze v rámci životního vývoje softwaru (SDLC)](#často-používané-fáze-v-rámci-životního-vývoje-softwaru-sdlc)
+2. [Klasické přístupy](#-klasické-přístupy)
+	-  [Waterfall](#waterfall)
+	- [Spirální model](#spirální-model)
+1. [Agilní přístup](#agilní-přístup)
+   - [Scrum](#scrum)
+   - [Extrémní programování (XP)](#extrémní-programování-xp)
+   - [Prototypovací model](#prototypovací-model)
+   - [RUP (Rational Unified Process)](#rational-unified-process)
 
+---
 # Metodiky a životní cyklus vývoje softwaru
 **SDLC** (Software Development Life Cycle) je soubor procesů nebo fází, které softwarový produkt prochází od jeho návrhu až po jeho údržbu a odstranění z provozu. SDLC je rámec, který organizace používají k plánování, návrhu, vytváření, testování a údržbě softwarových systémů. Každá fáze SDLC má své vlastní cíle a úkoly, a celkově pomáhá zajistit, že vývoj softwaru probíhá systematicky a efektivně.
 
