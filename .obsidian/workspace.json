@@ -21,11 +21,9 @@
             "id": "ddc1f0fec5620260",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2024/PV/maturitni_otazky/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md",
-                "mode": "source",
-                "source": false
+                "file": "2024/resources/excelidraw/spiral.png"
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/PV/maturitni_otazky/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md",
+                "file": "2024/resources/excelidraw/spiral.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/PV/maturitni_otazky/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md",
+                "file": "2024/resources/excelidraw/spiral.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/PV/maturitni_otazky/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md"
+                "file": "2024/resources/excelidraw/spiral.png"
               }
             }
           }
@@ -159,11 +157,11 @@
   },
   "active": "ddc1f0fec5620260",
   "lastOpenFiles": [
-    "2024/resources/excelidraw/spiral.png.crswap",
-    "2024/resources/excelidraw/spiral.png",
     "2024/resources/excelidraw/Untitled-2023-12-20-1515.png",
-    "2024/resources/excelidraw/waterfall.png",
+    "2024/resources/excelidraw/spiral.png",
     "2024/PV/maturitni_otazky/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md",
+    "2024/resources/excelidraw/spiral.png.crswap",
+    "2024/resources/excelidraw/waterfall.png",
     "2024/resources/excelidraw/Untitled-2023-12-20-1515.png.crswap",
     "2024/DS/maturitni_otazky/etapy_vyvoje_a_dokumentace_databazovych_systemu_obsah_a_forma.md",
     "2024/resources/excelidraw/ds_etapy_vyvoje.svg",
