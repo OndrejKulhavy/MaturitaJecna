@@ -15,18 +15,6 @@
 > SDLC slouží jako rámec pro plánování, návrh a údržbu softwarových systémů, s každou fází zaměřenou na specifické cíle. Porovnání metodik ukazuje, že Agilní přístup a Scrum nabízejí rychlou zpětnou vazbu a flexibilitu, ale vyžadují úzkou spolupráci se zákazníkem. Spirální model kombinuje designový a prototypový přístup, zatímco RUP nabízí iterativní a inkrementální přístup vhodný pro velké projekty.
 > 
 > Text rovněž prezentuje výhody a nevýhody jednotlivých metodik, například jednoduchost Waterfallu a jeho nepružnost vůči změnám, flexibilitu Spirálního modelu na úkor nákladů a časové náročnosti, a agilní přístup s jeho rychlým dodáním, ale náročným plánováním. RUP zdůrazňuje důkladnou dokumentaci a schopnost odhalit chyby, ale může být nákladný a nevhodný pro malé projekty.
-# Obsah
-- [Obsah](#obsah)
-- [Metodiky a životní cyklus vývoje softwaru](#metodiky-a-životní-cyklus-vývoje-softwaru)
-- [Často používané fáze v rámci životního vývoje softwaru (SDLC)](#často-používané-fáze-v-rámci-životního-vývoje-softwaru-sdlc)
-
-- [Waterfall](#waterfall)
-- [Spirální model](#spirální-model)
-- [Agilní přístup](#agilní-přístup)
-  - [Scrum](#scrum)
-  - [Extrémní programování (XP)](#extrémní-programování-xp)
-  - [Prototypovací model](#prototypovací-model)
-  - [RUP (Rational Unified Process)](#rup-rational-unified-process)
 
 --- 
 
@@ -231,7 +219,7 @@ Umožňuje budoucím uživatelům softwaru hodnotit návrh designu a funkcí pro
   - Třetí fáze zahrnuje implementaci funkcí.
   - Opět nejde o konečný produkt; vždy je možné odhalit chyby nebo přidat nové požadavky.
 
-## RUP (Rational Unified Process)
+## Rational Unified Process
 - Iterativní a inkrementální, tradiční a striktní přístup k vývoji.
 - Vhodný zejména pro rozsáhlé projekty v korporátním prostředí, například v korporacích nebo bankách.
 - Striktně definuje požadavky, a nové požadavky jsou stanoveny až po dokončení každé iterace.
@@ -242,7 +230,6 @@ Umožňuje budoucím uživatelům softwaru hodnotit návrh designu a funkcí pro
   - **Předání**: Nasazení, údržba, podpora a finalizace dokumentace.
 
 - Každá iterace začíná až po dokončení předchozí a pokračuje, dokud není zákazník spokojen s výsledkem.
-
 ## Popis činnosti
 
 - **Business modelování**
