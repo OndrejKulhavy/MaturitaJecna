@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "9e7418ddffb0759c",
+    "type": "split",
+    "children": [
+      {
+        "id": "da9a5ec9d744b762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "489efbbe2b19e2f9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2024/resources/excelidraw/waterfall.png"
+              }
+            }
+          },
+          {
+            "id": "ddc1f0fec5620260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024/PV/maturitni_otazky/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1a094a1aca33f74",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddb240aa5b617d12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f25ce5a5b0de8dfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f0ab5ca7072a538",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6eceeb98665dcec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2f13cf9317bc939",
+    "type": "split",
+    "children": [
+      {
+        "id": "068a8fadf851c033",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a3b964239f02baa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024/PV/maturitni_otazky/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f424d246ee70b8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024/PV/maturitni_otazky/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cef0b4f9e3dde3fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e11e8063d8bf6cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024/PV/maturitni_otazky/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ddc1f0fec5620260",
+  "lastOpenFiles": [
+    "2024/resources/excelidraw/spiral.png.crswap",
+    "2024/resources/excelidraw/spiral.png",
+    "2024/resources/excelidraw/Untitled-2023-12-20-1515.png",
+    "2024/resources/excelidraw/waterfall.png",
+    "2024/PV/maturitni_otazky/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md",
+    "2024/resources/excelidraw/Untitled-2023-12-20-1515.png.crswap",
+    "2024/DS/maturitni_otazky/etapy_vyvoje_a_dokumentace_databazovych_systemu_obsah_a_forma.md",
+    "2024/resources/excelidraw/ds_etapy_vyvoje.svg",
+    "2024/DS/maturitni_otazky/architektura_databazovych_systemu_sprava_sluzby_systemovy_katalog.md"
+  ]
+}
