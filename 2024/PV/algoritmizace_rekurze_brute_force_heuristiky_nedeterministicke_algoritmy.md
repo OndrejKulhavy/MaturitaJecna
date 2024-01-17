@@ -15,10 +15,10 @@ Odkaz na případné video, které ilustruje nebo doplňuje téma
 
 ## Obsah
 ### Rozcestník
-- [Rekurze](# Rekurze)
-- [Brute Force](# Brute Force)
-- [Heuristiky](# heuristiky)
-- [Nedeterministické algoritmy](# Nedeterministické algoritmy)
+- [Rekurze](#Rekurze)
+- [Brute Force](#Brute-Force)
+- [Heuristiky](#heuristiky)
+- [Nedeterministické algoritmy](#Nedeterministické-algoritmy)
 
 ### Samotný Obsah
 ## Rekurze
