@@ -21,10 +21,23 @@ Odkaz na případné video, které ilustruje nebo doplňuje téma
 - [Nedeterministické algoritmy](#Nedeterministické-algoritmy)
 
 ### Samotný Obsah
-## Rekurze
-## Brute Force
-## Heuristiky
-## Nedeterministické algoritmy
+#### Rekurze
+Představuje opakované vnořené volání stejného podprogramu (funkce). Součástí rekurzivní funkce by měla být ukončující podmínka určující, kdy se má vnořování zastavit. Chyba v rekurzi může způsobit vyčerpání paměti pro zásobník a následně ukončení programu.
+
+```python
+def factorial(number: int) -> int:
+    if number < 0:
+        raise ValueError('Undefined for value < 0')
+    if number == 0:
+        return 1
+    return number * factorial(number - 1)
+```
+
+#### Brute Force
+
+#### Heuristiky
+#### Nedeterministické algoritmy
 
 ## Zdroje a Zajímavé Odkazy
-Seznam použitých zdrojů a případně odkazy na další zajímavé informace k tématu
+Obrázek reprezentující rekurzi:
+(https://cs.wikipedia.org/wiki/Rekurze#/media/Soubor:Sierpinski.svg)
