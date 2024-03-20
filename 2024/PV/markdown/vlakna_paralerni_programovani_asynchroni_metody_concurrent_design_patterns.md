@@ -56,7 +56,7 @@ public static void Main(string[] args)
 
   int iterations = 10;
 
-  //create new thread and use lamba to pass parameter to Worker method
+  //create new thread and use lambda to pass parameter to Worker method
   Thread thread = new Thread(() => Worker(iterations));
   //run worker task
   thread.Start();
