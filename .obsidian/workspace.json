@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c10bf399ef261292",
+        "id": "9c751b44216f1851",
         "type": "tabs",
         "children": [
           {
-            "id": "750b3a7d87b40016",
+            "id": "462a06ac1ade99a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024/PV/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/PV/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/PV/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024/PV/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,8 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "750b3a7d87b40016",
+  "active": "462a06ac1ade99a3",
   "lastOpenFiles": [
+    "Test Cases - Erik Vaněk.md",
+    "Test Cases - Borufka Dominik.md",
+    "test-cases.md",
+    "metadata/excelidraw/jecna_logo.png",
+    "metadata/excelidraw/jecna_logo_dark.png",
+    "2024/PV/pdf/metodiky_a_zivotni_cyklus_vyvoje_softwaru.pdf",
+    "2024/PV/markdown/adresovani_a_sprava_pameti_garbage_collecting_reference_ukazatele_struktura_pameti_programu.md",
+    "2024/PV/markdown/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md",
+    "2024/PV/markdown",
     "2024/DS/maturitni_otazky/architektura_databazovych_systemu_sprava_sluzby_systemovy_katalog.md",
     "Untitled.md",
     "2024/PV/anki_package/Metodiky a životní cyklus vývoje softwaru.apkg",
@@ -159,31 +160,24 @@
     "2024/PV/anki/New Text Document.txt",
     "2024/PV/anki",
     "2024/PV/maturitni_otazky/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md",
-    "2024/PV/zpracovani_a_parsovani_textovych_dat_regularni_vyrazy_kodovani_a_stringy.md",
-    "2024/PV/vyjimky_a_aserce_debugovani_a_zpracovani_chyb.md",
-    "2024/PV/vlastnosti_datovych_struktur_serazenost_a_opakovani_prvku_indexace_hashovani_a_klice_prvku.md",
-    "2024/PV/vlakna_paralerni_programovani_asynchroni_metody_concurrent_design_patterns.md",
-    "2024/PV/typy_datovych_struktur_pole_spojovy_seznam_strom_fronta_zasobnik_halda.md",
-    "2024/PV/testovani_unit_testovani_a_dokumentace_zdrojoveho_kodu.md",
-    "2024/PV/strojove_uceni_s_vyuzitim_umelych_neuronovych_siti.md",
-    "2024/PV/strojove_uceni_s_vyuzitim_regrese_a_klasifikace.md",
-    "2024/PV/strojove_uceni_priprava_dat_chyby_v_datech_a_bias_korelace_a_kauzalita.md",
-    "2024/PV/soubory_a_serializace_ukladani_a_nacitani_dat_formaty_souboru.md",
-    "2024/PV/programovaci_jazyky_vlastnosti_srovnani_popis_zpusobu_tvorby_i_behu_programu.md",
-    "2024/PV/principy_objektoveho_programovani_agregace_a_kompozice_objektu.md",
-    "2024/PV/navrhove_vzory_creational_design_patterns_structural_design_patterns_behavioral_patterns.md",
-    "2024/PV/metodiky_a_zivotni_cyklus_vyvoje_softwaru.md",
-    "2024/PV/komunikace_v_siti_tvorba_sitovych_aplikaci_berkley_socket_a_jeho_rozhrani.md",
-    "2024/PV/komunikace_s_databazovym_systemem_pripojeni_ukladani_a_nacitani_dat_mapovani_entit_v_oop.md",
-    "2024/PV/integrita_dat_bezpecnost_logovani_kontrola_vstupu_zpracovani_chyb.md",
-    "2024/PV/dedicnost_method_overriding_function_overloading.md",
-    "2024/PV/datove_typy_generika_vycetove_datove_typy_struktury_anotace_operatory.md",
-    "2024/PV/asymptoticke_pametove_a_casove_slozitosti.md",
-    "2024/PV/architectural_design_patterns_mvc_multitier_monolithic_p2p_client_server.md",
-    "2024/PV/anonymni_metody_lambda_specialni_magické_metody_staticke_metody_ukazatel_na_metodu_delegat.md",
-    "2024/PV/algoritmizace_rekurze_brute_force_heuristiky_nedeterministicke_algoritmy.md",
-    "2024/PV/ready/metodiky_a_zivotni_cyklus_vyvoje_softwaru.pdf",
-    "2024/PV/ready",
+    "2024/PV/markdown/zpracovani_a_parsovani_textovych_dat_regularni_vyrazy_kodovani_a_stringy.md",
+    "2024/PV/markdown/vyjimky_a_aserce_debugovani_a_zpracovani_chyb.md",
+    "2024/PV/markdown/vlastnosti_datovych_struktur_serazenost_a_opakovani_prvku_indexace_hashovani_a_klice_prvku.md",
+    "2024/PV/markdown/vlakna_paralerni_programovani_asynchroni_metody_concurrent_design_patterns.md",
+    "2024/PV/markdown/typy_datovych_struktur_pole_spojovy_seznam_strom_fronta_zasobnik_halda.md",
+    "2024/PV/markdown/testovani_unit_testovani_a_dokumentace_zdrojoveho_kodu.md",
+    "2024/PV/markdown/strojove_uceni_s_vyuzitim_umelych_neuronovych_siti.md",
+    "2024/PV/markdown/strojove_uceni_s_vyuzitim_regrese_a_klasifikace.md",
+    "2024/PV/markdown/strojove_uceni_priprava_dat_chyby_v_datech_a_bias_korelace_a_kauzalita.md",
+    "2024/PV/markdown/soubory_a_serializace_ukladani_a_nacitani_dat_formaty_souboru.md",
+    "2024/PV/markdown/programovaci_jazyky_vlastnosti_srovnani_popis_zpusobu_tvorby_i_behu_programu.md",
+    "2024/PV/markdown/principy_objektoveho_programovani_agregace_a_kompozice_objektu.md",
+    "2024/PV/markdown/navrhove_vzory_creational_design_patterns_structural_design_patterns_behavioral_patterns.md",
+    "2024/PV/markdown/komunikace_v_siti_tvorba_sitovych_aplikaci_berkley_socket_a_jeho_rozhrani.md",
+    "2024/PV/markdown/komunikace_s_databazovym_systemem_pripojeni_ukladani_a_nacitani_dat_mapovani_entit_v_oop.md",
+    "2024/PV/markdown/integrita_dat_bezpecnost_logovani_kontrola_vstupu_zpracovani_chyb.md",
+    "2024/PV/markdown/dedicnost_method_overriding_function_overloading.md",
+    "2024/PV/markdown/datove_typy_generika_vycetove_datove_typy_struktury_anotace_operatory.md",
     "2024/resources/excelidraw/waterfall.png",
     "2024/resources/excelidraw/spiral.png",
     "2024/resources/excelidraw/Untitled-2023-12-20-1515.png",

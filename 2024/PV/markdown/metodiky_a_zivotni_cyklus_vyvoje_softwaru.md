@@ -5,7 +5,7 @@
 
 # Metodiky a životní cyklus vývoje softwaru
 
-- **Anki Flashcards**: [![Anki Flashcards](https://img.shields.io/badge/Anki-Flashcards-1f425f.svg)](https://ankiweb.net/shared/info/)
+- **Anki Flashcards**: [![Anki Flashcards](https://img.shields.io/badge/Anki-Flashcards-1f425f.svg)](https://ankiweb.net/shared/info/) 
 - **Autoři**: @danielkahoun @MaksymDoremi @OndrejKulhavy
 - **Video**:
 
